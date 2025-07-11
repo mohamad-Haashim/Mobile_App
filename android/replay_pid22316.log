@@ -1,0 +1,40 @@
+JvmtiExport can_access_local_variables 0
+JvmtiExport can_hotswap_or_post_breakpoint 0
+JvmtiExport can_post_on_exceptions 0
+# 746 ciObject found
+instanceKlass com/android/tools/r8/internal/gd
+ciMethodData java/lang/StringLatin1 toBytes (C)[B 2 6345 orig 80 0 0 0 0 0 0 0 0 0 0 0 0 102 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 data 6 0x0 0x0 0x0 0x9 0x1 0x0 oops 0 methods 0
+ciMethod com/android/tools/r8/internal/Ke <init> (Ljava/lang/String;)V 0 0 1 0 -1
+ciMethod com/android/tools/r8/internal/Wj a (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String; 1024 0 12583 0 0
+ciMethod com/android/tools/r8/DiagnosticsHandler warning (Lcom/android/tools/r8/Diagnostic;)V 0 0 1 0 -1
+ciMethod com/android/tools/r8/internal/rd a (IILjava/lang/String;Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;)V 4100 0 1576 0 -1
+ciMethod com/android/tools/r8/internal/rd a (Ljava/lang/String;Ljava/lang/String;)V 4096 0 1588 0 -1
+ciMethod com/android/tools/r8/internal/rd a (ILjava/lang/String;Ljava/lang/String;)Lcom/android/tools/r8/internal/nP; 0 0 1 0 -1
+ciMethod com/android/tools/r8/internal/rd a (Ljava/lang/String;)V 472 0 236 0 -1
+ciMethod com/android/tools/r8/internal/rd a (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V 1128 0 288 0 -1
+ciMethod com/android/tools/r8/internal/rd a (Ljava/lang/String;Z)Lcom/android/tools/r8/internal/J2; 3234 0 900 0 0
+ciMethod com/android/tools/r8/internal/rd a (ILcom/android/tools/r8/internal/xj0;Ljava/lang/String;Z)Lcom/android/tools/r8/internal/J2; 0 0 1 0 -1
+ciMethod com/android/tools/r8/internal/rd a (Lcom/android/tools/r8/internal/H4;)V 0 0 1 0 -1
+ciMethod com/android/tools/r8/internal/rd b (Ljava/lang/String;)V 490 0 245 0 0
+ciMethod com/android/tools/r8/internal/rd c (Ljava/lang/String;)V 0 0 1 0 -1
+ciMethod com/android/tools/r8/internal/rd a (ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;)V 542 0 3686 0 0
+ciMethod com/android/tools/r8/internal/rd b (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Lcom/android/tools/r8/internal/l20; 0 0 1 0 -1
+ciMethod com/android/tools/r8/internal/rd a (ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;)Lcom/android/tools/r8/internal/Qp; 1024 0 6010 0 0
+ciMethod com/android/tools/r8/internal/rd a (ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;)Lcom/android/tools/r8/internal/XO; 0 0 1 0 -1
+ciMethod com/android/tools/r8/internal/rd a ()V 4102 0 1584 0 0
+ciMethod com/android/tools/r8/utils/structural/s e (Lcom/android/tools/r8/utils/structural/s;)Z 282 0 42252 0 -1
+ciMethod com/android/tools/r8/graph/I2 H0 ()Ljava/lang/String; 0 0 1 0 -1
+ciMethod com/android/tools/r8/graph/B1 c (Ljava/lang/String;)Lcom/android/tools/r8/graph/H2; 594 0 314694 0 -1
+ciMethod com/android/tools/r8/graph/B1 c (Lcom/android/tools/r8/graph/H2;)Lcom/android/tools/r8/graph/I2; 900 0 159050 0 -1
+ciMethod com/android/tools/r8/graph/B1 a (Lcom/android/tools/r8/graph/I2;Lcom/android/tools/r8/graph/I2;Lcom/android/tools/r8/graph/H2;)Lcom/android/tools/r8/graph/l1; 696 0 69966 0 -1
+ciMethod com/android/tools/r8/graph/r2 w0 ()Lcom/android/tools/r8/graph/I2; 266 0 133 0 -1
+ciMethod com/android/tools/r8/graph/H2 a (Lcom/android/tools/r8/internal/y2;Ljava/lang/String;)Z 230 4922 24301 0 -1
+ciMethod com/android/tools/r8/graph/E0 b0 ()Z 402 0 201 0 -1
+ciMethod com/android/tools/r8/graph/E0 T0 ()Ljava/util/List; 1062 0 531 0 -1
+ciMethod com/android/tools/r8/graph/E0 S0 ()Lcom/android/tools/r8/graph/Y3; 1024 786 20160 0 -1
+ciMethod com/android/tools/r8/graph/E0 u1 ()Z 952 0 4571 0 -1
+ciMethod com/android/tools/r8/graph/E0 p1 ()Z 954 0 4569 0 -1
+ciMethod com/android/tools/r8/graph/b1 n0 ()Lcom/android/tools/r8/graph/u0; 1280 0 640 0 -1
+ciMethod com/android/tools/r8/graph/b1 a0 ()Z 276 0 138 0 -1
+ciMethod com/android/tools/r8/graph/b1 X ()Lcom/android/tools/r8/graph/D2; 292 0 146 0 -1
+ciMethodData com/android/tools/r8/graph/B1 c (Ljava/lang/String;)Lcom/android/tools/r8/graph/H2; 2 329214 orig 80 0 0 0 0 0 0 0 0 0 0 0 0 102 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 data 21 0x90002 0x50432 0xc0002 0x506d8 0xf0004 0x0 0x0 0x2669375cb30 0x50537 0x2669375cb30 0x1 0x0 0x0 0x0 0x0 0x0 0x0 0x9 0x2 0x0 0x0 oops 2

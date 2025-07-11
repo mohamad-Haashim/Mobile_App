@@ -1,0 +1,83 @@
+[
+  {
+      "name": "Go Priority",
+      "capacity": 4,
+      "eta": "In 3 mins",
+      "dropoffTime": "2:22 PM",
+      "price": "₹309.92",
+      "description": "Priority pickup",
+      "imageUrl": "https://d1a3f4spazzrp4.cloudfront.net/car-types/haloProductImages/package_UberX_plus_fg.png"
+  },
+  {
+      "name": "Uber Go",
+      "capacity": 4,
+      "eta": "In 3 mins",
+      "dropoffTime": "2:23 PM",
+      "price": "₹239.95",
+      "description": "Affordable compact rides",
+      "imageUrl": "https://d1a3f4spazzrp4.cloudfront.net/car-types/haloProductImages/Hatchback.png"
+  },
+  {
+      "name": "Go Sedan",
+      "capacity": 4,
+      "eta": "In 4 mins",
+      "dropoffTime": "2:24 PM",
+      "price": "₹281.68",
+      "description": "Affordable sedans",
+      "imageUrl": "https://d1a3f4spazzrp4.cloudfront.net/car-types/haloProductImages/v1.1/UberX_v1.png"
+  },
+  {
+      "name": "Premier",
+      "capacity": 4,
+      "eta": "In 5 mins",
+      "dropoffTime": "2:27 PM",
+      "price": "₹374.68",
+      "description": "Comfortable sedans, top-quality drivers",
+      "imageUrl": "https://d1a3f4spazzrp4.cloudfront.net/car-types/haloProductImages/package_UberComfort_new_2022.png"
+  },
+  {
+      "name": "Uber Auto",
+      "capacity": 3,
+      "eta": "In 2 mins",
+      "dropoffTime": "2:20 PM",
+      "price": "₹125.75",
+      "description": "Pay directly to driver, cash/UPI only",
+      "imageUrl": "https://d1a3f4spazzrp4.cloudfront.net/car-types/haloProductImages/v1.1/TukTuk_Green_v1.png"
+  },
+  {
+      "name": "Moto",
+      "capacity": 1,
+      "eta": "In 5 mins",
+      "dropoffTime": "2:27 PM",
+      "price": "₹66.05",
+      "description": "Affordable, motorcycle rides",
+      "imageUrl": "https://d1a3f4spazzrp4.cloudfront.net/car-types/haloProductImages/v1.1/Uber_Moto_India1.png"
+  },
+  {
+      "name": "UberXL",
+      "capacity": 0,
+      "eta": "In 6 mins",
+      "dropoffTime": "2:29 PM",
+      "price": "₹364.17",
+      "description": "Comfortable SUVs",
+      "imageUrl": "https://d1a3f4spazzrp4.cloudfront.net/car-types/haloProductImages/package_UberXL_new_2022.png"
+  },
+  {
+    "name": "Moto",
+    "capacity": 1,
+    "eta": "In 5 mins",
+    "dropoffTime": "2:27 PM",
+    "price": "₹66.05",
+    "description": "Affordable, motorcycle rides",
+    "imageUrl": "https://d1a3f4spazzrp4.cloudfront.net/car-types/haloProductImages/v1.1/Uber_Moto_India1.png"
+},
+{
+    "name": "UberXL",
+    "capacity": 0,
+    "eta": "In 6 mins",
+    "dropoffTime": "2:29 PM",
+    "price": "₹364.17",
+    "description": "Comfortable SUVs",
+    "imageUrl": "https://d1a3f4spazzrp4.cloudfront.net/car-types/haloProductImages/package_UberXL_new_2022.png"
+}
+]
